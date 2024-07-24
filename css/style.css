@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui, sans-serif;
+    background-color: rgb(246, 207, 213);
+  }
+  
+  div {
+    background-color: hsl(323, 51%, 41%);
+    width: fit-content;
+    padding: 8px;
+  }
+  
+  button {
+    margin: 8px;
+  }
+  
+
